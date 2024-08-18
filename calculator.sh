@@ -1,3 +1,1 @@
-#!/bin/sh
-
-x=a+b+c
+add my name
